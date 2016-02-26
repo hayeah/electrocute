@@ -1,0 +1,12 @@
+{
+  "name": "electron-debug",
+  "version": "0.1.0",
+  "main": "launch.js",
+  "bin": {
+    "electron-debug": "bin/electron-debug.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "yargs": "^3.32.0"
+  }
+}
