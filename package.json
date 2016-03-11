@@ -1,9 +1,10 @@
 {
-  "name": "electron-debug",
-  "version": "0.0.1",
+  "name": "electrocute",
+  "version": "0.0.2",
   "main": "launch.js",
   "bin": {
-    "electron-debug": "bin/electron-debug.js"
+    "electron-debug": "bin/electron-debug.js",
+    "electrocute": "bin/electron-debug.js"
   },
   "dependencies": {
     "yargs": "^3.32.0"
